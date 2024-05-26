@@ -1,0 +1,25 @@
+GameProject {
+ ID "GRAD-Main-Repository"
+ GUID "616CD0728FAA85FE"
+ TITLE "GRAD Main Repository"
+ Dependencies {
+  "58D0FB3206B6F859" "5B0D1E4380971EBD" "60B524F7A5AE96A8" "5C9691EA7FD7A79F" "5EF8AADD3B3C81F2" "5964E0B3BB7410CE" "5994AD5A9F33BE57" "6088A3044B7ECBFD" "595F2BF2F44836FB" "5E68F6FA97DAB5CD" "5D931A33AEB81FA3" "5EF5347644A2C501" "606B100247F5C709" "60C4E0B49618CC62" "5EE135CE07217857"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+  GameProjectConfig Xbox {
+   PlatformHardware XBOX_ONE
+  }
+ }
+}
